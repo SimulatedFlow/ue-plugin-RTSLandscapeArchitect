@@ -1,0 +1,54 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"EngineVersion": "5.8.0",
+	"FriendlyName": "RTS & Topdown Landscape Architect",
+	"Description": "Automatic multi-level plateau landscape generation with clean ramps, cliffs and bounded map borders (mountains or water) for RTS, topdown and turn-based tactics games. Generates editable geometry in the editor or fully procedural ProceduralMesh terrain at runtime, then triggers PCG decoration and rebuilds the NavMesh. Engine-only, full C++ source.",
+	"Category": "Code Plugins",
+	"CreatedBy": "Simulated Flow",
+	"CreatedByURL": "https://github.com/SimulatedFlow",
+	"DocsURL": "https://github.com/SimulatedFlow/ue-plugin-RTSLandscapeArchitect",
+	"SupportURL": "mailto:simulatedflow@gmail.com",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "RTSLandscapeArchitect",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		},
+		{
+			"Name": "RTSLandscapeArchitectEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ProceduralMeshComponent",
+			"Enabled": true
+		},
+		{
+			"Name": "GeometryProcessing",
+			"Enabled": true
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
+		}
+	],
+	"MarketplaceURL": "https://www.fab.com/listings/aa5de54c-f705-41aa-8a96-939ff3267b4f"
+}
