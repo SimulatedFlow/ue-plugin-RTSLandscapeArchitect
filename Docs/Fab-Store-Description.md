@@ -79,4 +79,4 @@ turn-based tactics and any project that needs bounded, multi-level battle maps.
 
 **Important/Additional Notes:** Runtime terrain is built as an optimized `UProceduralMeshComponent` with cooked collision. Generation is deterministic per seed. Full C++ source is included and Blueprint-exposed.
 
-**Support Email:** simulatedflow@gmail.com
+**Support Email:** teufelsilvan@gmail.com

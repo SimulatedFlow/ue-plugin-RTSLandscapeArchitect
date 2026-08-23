@@ -140,5 +140,5 @@ during Play) and only while *Auto Generate In Editor* is on.
 
 ---
 
-*RTS & Topdown Landscape Architect — © 2026 Simulated Flow. Support:
-simulatedflow@gmail.com*
+*RTS & Topdown Landscape Architect — © 2026 Silvan Teufel. Support:
+teufelsilvan@gmail.com*

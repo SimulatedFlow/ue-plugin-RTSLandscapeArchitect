@@ -26,10 +26,10 @@ See `Docs/DOCUMENTATION.md` for installation, quick start and the full API.
 
 **Source-available** (see before you buy): https://github.com/SimulatedFlow/ue-plugin-RTSLandscapeArchitect
 
-- **Support:** simulatedflow@gmail.com
+- **Support:** teufelsilvan@gmail.com
 - **Version:** 1.0.0
 
-*© 2026 Simulated Flow. All rights reserved.*
+*© 2026 Silvan Teufel. All rights reserved.*
 
 <!-- SF-STORE-BLOCK:BEGIN -->
 ## 🛒 Source-available — see before you buy
@@ -46,5 +46,5 @@ This repository contains the **full source** of a commercial Unreal Engine plugi
 
 👉 **[Get the free pack](https://silvan.teufel-engineering.com/newsletter/plugins/?q=gh)**
 
-_© 2026 Simulated Flow. All rights reserved._
+_© 2026 Silvan Teufel. All rights reserved._
 <!-- SF-STORE-BLOCK:END -->

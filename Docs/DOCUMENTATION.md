@@ -155,6 +155,6 @@ so `/RTSLandscapeArchitect/RTSLandscapeArchitect/Materials/M_RTSLandscape` is pr
 
 ## 8. Support
 
-Email: simulatedflow@gmail.com
+Email: teufelsilvan@gmail.com
 
-*© 2026 Simulated Flow. All rights reserved.*
+*© 2026 Silvan Teufel. All rights reserved.*
