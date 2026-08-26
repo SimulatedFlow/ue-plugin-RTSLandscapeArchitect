@@ -61,9 +61,9 @@ turn-based tactics and any project that needs bounded, multi-level battle maps.
 
 **Number of C++ Classes:** 3 (`URTSHeightmapGenerator`, `ARTSLandscapeActor`, editor Details customization) plus config/data structs (`FRTSLandscapeConfig`, `FRTSHeightmapData`)
 
-**Supported Development Platforms:** Win64, Mac, Linux
+**Supported Development Platforms:** Win64
 
-**Supported Target Build Platforms:** Win64, Mac, Linux
+**Supported Target Build Platforms:** Win64
 
 **Engine Version:** Unreal Engine 5.8
 
