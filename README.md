@@ -22,8 +22,9 @@ third-party libraries.
 - **PCG + NavMesh.** After the mesh is built the plugin runs your PCG graph over
   the plateaus and rebuilds the navigation mesh automatically.
 
-See `Docs/DOCUMENTATION.md` for installation, quick start and the full API.
+Documentation, free and without an account: <https://wiki.teufel-engineering.com/en/RTSLandscapeArchitect/documentation> — installation, quick start and the full API.
 
+The same manual ships with the plugin as `Docs/DOCUMENTATION.md`.
 **Source-available** (see before you buy): https://github.com/SimulatedFlow/ue-plugin-RTSLandscapeArchitect
 
 - **Support:** teufelsilvan@gmail.com
